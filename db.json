@@ -1,0 +1,26 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "Fake Product 1",
+        "description": "This is a description for Fake Product 1.",
+        "imageUrl": "https://via.placeholder.com/150",
+        "qrcode": "QRCODE1"
+      },
+      {
+        "id": "2",
+        "name": "Fake Product 2",
+        "description": "This is a description for Fake Product 2.",
+        "imageUrl": "https://via.placeholder.com/150",
+        "qrcode": "QRCODE1"
+      },
+      {
+        "id": "3",
+        "name": "Fake Product 3",
+        "description": "This is a description for Fake Product 3.",
+        "imageUrl": "https://via.placeholder.com/150",
+        "qrcode": "QRCODE2"
+      }
+    ]
+  }
+  
